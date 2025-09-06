@@ -155,3 +155,13 @@ http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 http://108.14.66.42:5004/auto/v31.1
 #EXTINF:-1 group-title="United States" tvg-logo="https://cms.scrippsnetworks.com/wp-content/uploads/2022/02/IONPLusRebrand_WhiteLogo_800x318.png",Ion Plus
 http://108.14.66.42:5004/auto/v31.5
+#EXTINF:-1 tvg-id="IonMystery.us" tvg-name="ION Mystery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/1200px-ION_Mystery_logo.svg.png" group-title="United States",ION Mystery
+https://livetv-fa.tubi.video/ion-mystery/playlist.m3u8
+#EXTINF:-1 tvg-id="QVC.us" tvg-name="QVC East" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/QVC.svg/revision/latest/scale-to-width-down/250?cb=20190429184243" group-title="United States",QVC East
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
+#EXTINF:-1 tvg-id="QVCPacific.us" tvg-name="QVC West" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/QVC.svg/revision/latest/scale-to-width-down/250?cb=20190429184243" group-title="United States",QVC West
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1uswest/master.m3u8
+#EXTINF:-1 tvg-id="QVC2.us" tvg-name="QVC2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/QVC2_%282017%29.svg/revision/latest?cb=20210225125729" group-title="United States",QVC2
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8
+#EXTINF:-1 tvg-id="QVC3.us" tvg-name="QVC3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/QVC_Logo.svg/615px-QVC_Logo.svg.png" group-title="United States,QVC3
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8
